@@ -9,8 +9,7 @@ A downstream branch of the Sojourn-13 codebase.
 
 Please contact us on the server Discord. 
 
-Project owner - MsRandylicious<br/>
-Host - Drfarson<br/>
+Project owner and Host controller - MsRandylicious<br/>
 
 ## CREDITS
 
